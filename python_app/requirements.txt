@@ -1,0 +1,4 @@
+requests==2.31.0
+Pillow==10.0.0
+maturin==1.12.6
+pytest==9.0.2
