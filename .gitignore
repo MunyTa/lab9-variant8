@@ -21,7 +21,7 @@ go_http/http_server.exe
 go_http/bin/
 
 # Rust
-/target/
+**/target/
 **/*.so
 **/*.dll
 **/*.dylib
